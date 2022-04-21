@@ -1,4 +1,3 @@
-# password_creater
 The Password Creator
 
 ![Screenshot_2022-04-22_01-41-07](https://user-images.githubusercontent.com/66387739/164563218-7caebbaa-5a36-4c45-9bdd-b2f79a63a24b.png)
