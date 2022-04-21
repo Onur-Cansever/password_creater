@@ -7,7 +7,7 @@ With this program, you can create ascii passwords of any length you want.
 
 Compiling instructions:
 
-1- install openjdk (if you don't want to compile just install openjre)
+1- install openjdk (if you don't want to compile just install openjre and run java -jar binary_name.jar)
 
 2- run that command in source code directory: javac Main.java
 
